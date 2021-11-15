@@ -1,5 +1,9 @@
 # hall-booking
 
+## postman documentation link
+https://documenter.getpostman.com/view/16251431/UVC9fQcw
+
+
 The Hall Booking API is used to create a room and allows use to book the room with particular date and time.
 
 ## Endpoints
